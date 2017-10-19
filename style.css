@@ -1,0 +1,144 @@
+body{
+	background-image:url(images/bg.jpg);
+	background-repeat: no-repeat;
+	background-color: black;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-position:center top;
+}
+
+.itens{
+	background-color: black;
+	list-style: none;
+	float: left;
+	padding-top: 20px;
+	padding-right:40px;
+	padding-bottom:20px;
+	padding-left:40px;
+	color:white;
+}
+
+.itens:hover{
+	background-color: purple;
+	color:black;
+}
+
+#logo{
+	list-style:none;
+	float:left;
+}
+
+#ultopo{
+	width: 920px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+#ulmeio{
+	background-color: #0A0C10;
+	width: 920px;
+	height: 430px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ulbaixo{
+	background-color: #0A0C10;
+	width: 920px;
+	height: 310px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#it{
+	margin-top: 55px;
+}	
+
+#it1{
+	background-color: black;
+	float: left;
+	height: 220px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+	padding-left:20px;
+	list-style:none;			
+}			
+
+#it2{
+	float: left;
+	height: 200px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:2px;
+	padding-left:2px;
+	list-style:none;			
+}	
+
+#itdiv{ 
+	background-color: #0A0C10;
+	float: left;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:12px;
+	padding-left:12px;
+	list-style:none;
+}	
+
+#itdiv2{ 
+	background-color: #0A0C10;
+	float: left;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:12px;
+	padding-left:12px;
+	list-style:none;
+}
+
+#imgs{
+	width:240px;
+}
+
+#paragimg{
+	width:200px;
+	color: white;
+	font-size: 12px;
+}
+
+#paragimg2{
+	width:580px;
+	color: white;
+	font-size: 12px;
+}
+
+#ulft{
+	background-color: #0A0C10;
+	width: 920px;
+	height: 80px;				
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#sof1{
+
+	width:20px;
+	height: 40px;
+	
+	
+}
+
+#sof2{
+	width:40px;
+	height: 40px;
+}
+
+#parai{	
+	
+	color: white;
+	font-size: 12px;
+	height:10px;
+	line-height:80px;
+}
